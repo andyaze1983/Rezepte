@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Naanbrot</title>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Naanbrot",
+  "description": "Indisches Fladenbrot – einfaches Grundrezept",
+  "recipeYield": "8 Portionen",
+  "prepTime": "PT30M",
+  "totalTime": "PT1H30M",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "159 kcal"
+  },
+  "recipeIngredient": [
+    "2000 g Mehl",
+    "8 TL Backpulver",
+    "8 TL Salz",
+    "240 g Joghurt",
+    "1000 g Wasser, lauwarm",
+    "etwas Butter"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Das Mehl mit dem Salz und dem Backpulver vermischen und dann den Joghurt und das lauwarme Wasser unterkneten."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Den Teig mit einer Folie abdecken und eine Stunde ruhen lassen."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Den Teig in 6 Portionen teilen."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Jede Portion zu einem Fladen ausrollen und dünn mit Butter bestreichen."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Den Fladen einmal mit der Butterseite nach außen zusammenklappen und nochmals flach ausrollen."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In einer heißen Pfanne ohne zusätzliches Fett jede Seite etwa eine Minute backen."
+    }
+  ]
+}
+</script>
+</head>
+
+<body>
+
+<h1>Naanbrot</h1>
+
+<p><strong>Indisches Fladenbrot – einfaches Grundrezept</strong></p>
+
+<p><strong>Ergibt:</strong> 8 Portionen</p>
+
+<p><strong>Kalorien:</strong> ca. 159 kcal pro Portion</p>
+
+<h2>Zutaten</h2>
+
+<ul>
+<li>2000 g Mehl</li>
+<li>8 TL Backpulver</li>
+<li>8 TL Salz</li>
+<li>240 g Joghurt</li>
+<li>1000 g Wasser, lauwarm</li>
+<li>etwas Butter</li>
+</ul>
+
+<h2>Zubereitung</h2>
+
+<ol>
+<li>Das Mehl mit dem Salz und dem Backpulver vermischen und dann den Joghurt und das lauwarme Wasser unterkneten.</li>
+
+<li>Den Teig mit einer Folie abdecken und eine Stunde ruhen lassen.</li>
+
+<li>Den Teig in 6 Portionen teilen. Jede Portion zu einem Fladen ausrollen und dünn mit Butter bestreichen.</li>
+
+<li>Den Fladen einmal mit der Butterseite nach außen zusammenklappen und nochmals flach ausrollen.</li>
+
+<li>In einer heißen Pfanne ohne zusätzliches Fett jede Seite etwa eine Minute backen.</li>
+</ol>
+
+<h2>Tipp</h2>
+
+<p>Dazu passt gut Knoblauchquark oder man isst die Naanbrote zu Currygerichten.</p>
+
+</body>
+</html>
